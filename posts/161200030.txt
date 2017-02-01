@@ -1,0 +1,29 @@
+outlook.comからの送信
+2016/12/12 17:31
+George Washington
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css" style="display:none;"><!-- P {margin-top:0;margin-bottom:0;} --></style>
+</head>
+<body dir="ltr">
+<div id="divtagdefaultwrapper" style="font-size:12pt;color:#000000;font-family:Meiryo,'メイリオ',Sans-Serif;" dir="ltr">
+<p><br>
+</p>
+<p>これはOutlook.comからのHTMLメール</p>
+<p><br>
+</p>
+<p><b><span style="font-size: 20pt; background-color: rgb(255, 255, 0);">これはヘッダー</span></b></p>
+<p><b><span style="font-size: 20pt; background-color: rgb(255, 255, 0);"><br>
+</span></b></p>
+<p></p>
+<ul>
+<li><span style="font-size: 26.6667px;"><u><span style="font-size: 12pt; color: rgb(114, 50, 173);">その１</span></u></span></li><li><span style="font-size: 26.6667px;"><span style="font-size: 12pt; color: rgb(114, 50, 173);"><u>その２</u></span></span></li></ul>
+<p></p>
+</div>
+</body>
+</html>
+
+
+ <br>
+ 
